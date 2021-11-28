@@ -3,7 +3,8 @@
 ### Topic 1: working with window.object
 ### how to show alert
 
-```![1636115271832](https://user-images.githubusercontent.com/95132172/143727758-38e11ff9-2f36-406f-aefc-05e02b70bbfb.jpg)
+```
 
 window.alert("this is the alert box");
 ```
+![javascript-alert](https://user-images.githubusercontent.com/95132172/143727907-abca2a9b-26ee-4e80-8fb7-0bfbe2cdb5b8.png)
