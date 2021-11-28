@@ -1,5 +1,5 @@
 # tech-ashu
-## this is a documention of learining javascript
+## this is a documaintation of learining javascript
 ### Topic 1: working with window.object
 ### how to show alert
 
